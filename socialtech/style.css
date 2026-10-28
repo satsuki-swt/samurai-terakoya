@@ -114,7 +114,7 @@ h3 {
   margin: 20px;
   }
 
-#misson-photo {
+#mission-photo {
   width: 100%;
 }
 
@@ -623,7 +623,7 @@ footer {
   }
 
   /* 画像、説明の枠 */
-#product-left,
+#product-left > div ,
 #product-right > div {
 height: auto;
 margin: 0;
